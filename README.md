@@ -9,5 +9,6 @@ Cuenta con automatizaciones desarrolladas en Power Automate Cloud
 <b>Area: Redes</b>
 Dentro del area Redes la solucion permite administrar el inventario del Hardware y Software pertenecientes al area.
 
-<img width="637" alt="image" src="https://github.com/user-attachments/assets/b169fe1e-286d-4a80-96b0-535c3bc2cbaa">
+Link Demo
+https://drive.google.com/file/d/1LEqonFAitUzuEer3MzTRgenMLrHNPtHR/view?usp=sharing
 
